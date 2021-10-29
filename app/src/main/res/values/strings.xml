@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidMVVMApp</string>
+    <string name="app_logo_description">App Logo</string>
+    <string name="login_text">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_password_text">Forgot Password</string>
+    <string name="no_account_text">Don\'t have an account?</string>
+    <string name="register_text">Register</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="create_account">Create Account</string>
+    <string name="register_name_hint">Name</string>
+    <string name="register_last_name">Last Name</string>
+    <string name="confirm_password_hint">Confirms Password</string>
+    <string name="agree_all_conditions_text"><![CDATA[I agree to all <u>terms and conditions</u>]]></string>
+    <string name="have_account_text">Already have an account?</string>
+</resources>

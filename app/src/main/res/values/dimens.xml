@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_header_height">150dp</dimen>
+    <dimen name="app_logo_size">100dp</dimen>
+    <dimen name="text_login_size">15sp</dimen>
+    <dimen name="input_stroke_width">2dp</dimen>
+    <dimen name="text_forgot_size">16sp</dimen>
+    <dimen name="margin_layout">15dp</dimen>
+    <dimen name="text_register_size">16sp</dimen>
+</resources>
