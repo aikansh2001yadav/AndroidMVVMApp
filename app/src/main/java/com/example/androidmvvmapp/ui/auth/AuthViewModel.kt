@@ -7,6 +7,6 @@ import com.example.androidmvvmapp.data.repository.UserRepository
 class AuthViewModel : ViewModel() {
     private val userRepository = UserRepository()
 
-    suspend fun userLogin(email: String, password: String) = userRepository.login(email, password)
+    suspend fun userLogin(email: String, password: String):Boolean = userRepository.login(email, password)
     suspend fun userRegister(email: String, password: String) = userRepository.register(email, password)
 }

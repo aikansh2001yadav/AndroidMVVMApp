@@ -1,5 +1,6 @@
 package com.example.androidmvvmapp.data.repository
 
+import android.util.Log
 import com.google.firebase.auth.FirebaseAuth
 import kotlinx.coroutines.*
 import kotlinx.coroutines.tasks.await
@@ -16,11 +17,14 @@ class UserRepository {
 //                authResult = task.isSuccessful
 //            }
 //        }.join()
-//        val signIn = CoroutineScope(Dispatchers.IO).async {
-//            auth.signInWithEmailAndPassword(email, password)
-//        }
-        auth.signInWithEmailAndPassword(email, password).await()
-        return auth.currentUser != null
+        val signIn = CoroutineScope(Dispatchers.IO).async {
+            auth.signInWithEmailAndPassword(email, password)
+        }.await()
+//        auth.signInWithEmailAndPassword(email, password).await()
+//        Log.e("LOGIN_STATUS", auth.currentUser.toString())
+        val result = auth.currentUser!=null
+        Log.i("LOGIN_STATUS", result.toString())
+        return true
     }
 
     suspend fun register(email: String, password: String): Boolean {
