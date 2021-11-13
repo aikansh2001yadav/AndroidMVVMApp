@@ -15,6 +15,13 @@
     <string name="register_name_hint">Name</string>
     <string name="register_last_name">Last Name</string>
     <string name="confirm_password_hint">Confirms Password</string>
-    <string name="agree_all_conditions_text"><![CDATA[I agree to all <u>terms and conditions</u>]]></string>
+    <string name="agree_all_conditions_text">I agree to all <u>terms and conditions</u></string>
     <string name="have_account_text">Already have an account?</string>
+    <string name="text_last_name">Last Name</string>
+    <string name="text_name">Name</string>
+    <string name="text_email">Email</string>
+    <string name="description_profile_image">Profile Image Description</string>
+    <string name="text_logout">Logout</string>
+    <string name="text_user_details">User Details</string>
+    <string name="text_jokes">Jokes</string>
 </resources>

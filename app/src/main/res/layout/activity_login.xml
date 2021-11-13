@@ -85,18 +85,6 @@
                     android:inputType="textPassword" />
             </com.google.android.material.textfield.TextInputLayout>
 
-
-            <TextView
-                android:id="@+id/text_login_forgot"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="15dp"
-                android:text="@string/forgot_password_text"
-                android:textSize="@dimen/text_forgot_size"
-                android:textStyle="bold"
-                app:layout_constraintRight_toRightOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/text_input_password" />
-
             <LinearLayout
                 android:id="@+id/btn_login"
                 android:layout_width="match_parent"
@@ -106,7 +94,7 @@
                 android:orientation="vertical"
                 app:layout_constraintLeft_toLeftOf="parent"
                 app:layout_constraintRight_toRightOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/text_login_forgot">
+                app:layout_constraintTop_toBottomOf="@+id/text_input_password">
 
                 <TextView
                     android:layout_width="match_parent"
