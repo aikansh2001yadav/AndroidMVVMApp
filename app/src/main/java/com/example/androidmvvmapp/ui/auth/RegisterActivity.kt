@@ -12,7 +12,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.ViewModelProvider
 import com.example.androidmvvmapp.R
-import com.example.androidmvvmapp.UserDetailsActivity
+import com.example.androidmvvmapp.ui.UserDetailsActivity
 import com.example.androidmvvmapp.databinding.ActivityRegisterBinding
 import com.example.androidmvvmapp.utils.hide
 import com.example.androidmvvmapp.utils.show

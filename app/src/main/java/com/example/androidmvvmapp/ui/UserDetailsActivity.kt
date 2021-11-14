@@ -1,13 +1,11 @@
-package com.example.androidmvvmapp
+package com.example.androidmvvmapp.ui
 
-import android.content.Context
-import android.content.SharedPreferences
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.findNavController
 import androidx.navigation.ui.setupWithNavController
+import com.example.androidmvvmapp.R
 import com.example.androidmvvmapp.databinding.ActivityUserDetailsBinding
-import com.example.androidmvvmapp.ui.auth.AuthViewModelFactory
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class UserDetailsActivity : AppCompatActivity() {

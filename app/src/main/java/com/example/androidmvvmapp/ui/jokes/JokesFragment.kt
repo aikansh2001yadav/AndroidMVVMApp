@@ -9,8 +9,8 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.androidmvvmapp.controller.CategoryAdapter
-import com.example.androidmvvmapp.controller.JokesAdapter
+import com.example.androidmvvmapp.ui.controller.CategoryAdapter
+import com.example.androidmvvmapp.ui.controller.JokesAdapter
 import com.example.androidmvvmapp.data.db.JokesDao
 import com.example.androidmvvmapp.data.db.JokesDatabase
 import com.example.androidmvvmapp.databinding.FragmentJokesBinding

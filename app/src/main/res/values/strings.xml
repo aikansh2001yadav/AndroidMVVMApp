@@ -24,4 +24,5 @@
     <string name="text_logout">Logout</string>
     <string name="text_user_details">User Details</string>
     <string name="text_jokes">Jokes</string>
+    <string name="text_android_mvvm_app">Android MVVM App</string>
 </resources>
