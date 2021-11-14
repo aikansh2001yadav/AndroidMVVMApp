@@ -54,6 +54,7 @@ Different layers of the project:
       │    
       ├── ui                           # Implements UI functionalities.
       │   ├── auth                     # Add Login Activity, Register Activity(to login or register user) related View Model and View Model Factory class.
+      |   ├── controller               # Contains various recycler view adapters.
       │   ├── jokes                    # Add Jokes Fragment(shows jokes) related View Model and View Model Factory class.
       │   ├── userDetails              # Add UserDetails Fragment(shows jokes) related View Model and View Model Factory class.
       │   ├── UserDetailsActivity      # User Details Activity(to show JokesFragment and UserDetailsFragment).
