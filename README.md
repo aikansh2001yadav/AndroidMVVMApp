@@ -14,6 +14,8 @@ Navigate to: /APK/AndroidMVVM.apk download and install the application into your
 
 ## Application Screenshots
 
+* Splash Screen:
+
 * The user will be presented with the login screen which will ask for login credentials to use the application.
 
   - **Login Screen:** 
