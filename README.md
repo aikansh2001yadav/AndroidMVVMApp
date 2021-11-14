@@ -12,19 +12,19 @@ For installation and usage of this application
 Navigate to: /APK/AndroidMVVM.apk download and install the application into your android phones.
 <Recommended Android 5.0(Lollipop) version and above>
 
-##Application Screenshots
+## Application Screenshots
 
 * The user will be presented with the login screen which will ask for login credentials to use the application.
 
-  - ** Login Screen: 
+  - **Login Screen: 
 
-  - ** Register Screen:
+  - **Register Screen:
 
 * Following is the home screen for the application. It contains bottom navigation view which has two options Jokes and User Details to choose from
   By default jokes options is choosen but user can also choose 'User details' option to see user details.
   
-  - ** Jokes Screen:
-  - ** User Details Screen:
+  - **Jokes Screen:
+  - **User Details Screen:
   
 ## Code Structure
 
