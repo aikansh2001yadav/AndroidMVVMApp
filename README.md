@@ -6,12 +6,6 @@ A sample application which implements android MVVM Architecture. The sample appl
 It fetches data from Jokes api using retrofit api. It uses firebase to login and register user.
 It uploads user details using firebase storage. It uses various APIs like retrofit, material design, room database, coroutines and firebase.
 
-## Usage
-
-For installation and usage of this application
-Navigate to: /APK/AndroidMVVM.apk download and install the application into your android phones.
-<Recommended Android 5.0(Lollipop) version and above>
-
 ## Application Screenshots
 
 * Splash Screen:
