@@ -15,18 +15,34 @@ Navigate to: /APK/AndroidMVVM.apk download and install the application into your
 ## Application Screenshots
 
 * Splash Screen:
+  -<p align="center">
+   <img src = "images/img_splash.png" width="200" height="400">
+   </p>
 
 * The user will be presented with the login screen which will ask for login credentials to use the application.
 
   - **Login Screen:** 
+  <p align="center">
+  <img src = "images/img_login.png" width="200" height="400">
+  </p>
 
   - **Register Screen:**
+  <p align="center">
+  <img src = "images/img_register.png" width="200" height="400">
+  </p>
 
 * Following is the home screen for the application. It contains bottom navigation view which has two options Jokes and User Details to choose from
   By default jokes options is choosen but user can also choose 'User details' option to see user details.
   
   - **Jokes Screen:**
+  <p align="center">
+  <img src = "images/img_jokes.png" width="200" height="400">
+  </p>
+  
   - **User Details Screen:**
+  <p align="center">
+  <img src = "images/img_user_details.png" width="200" height="400">
+  </p>
   
 ## Code Structure
 
