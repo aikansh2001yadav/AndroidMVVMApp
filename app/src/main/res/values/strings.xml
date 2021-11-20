@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AndroidMVVMApp</string>
+    <string name="app_name">Humor Us</string>
     <string name="app_logo_description">App Logo</string>
     <string name="login_text">Login</string>
     <string name="email_hint">Email</string>
