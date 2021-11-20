@@ -58,8 +58,7 @@ Different layers of the project:
       │   ├── db                       # Local Persistence Database. Room (SQLite) database.
       │   ├── model                    # Model Classes.
       |   ├── preference               # Shared Preference.
-      │   └── repository               # Defining the JokesRepository, UserDetailsRepository and UserRepository classes which provide connection 
-      │ 			                           to LocalDataSource and RemoteDataSource classes.
+      │   └── repository               # Defining the JokesRepository, UserDetailsRepository and UserRepository classes which provide connection to LocalDataSource and RemoteDataSource classes.
       |
       ├── network                      # For handling remote database.
       │   ├── responses                # Jokes response class
