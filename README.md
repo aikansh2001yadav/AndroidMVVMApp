@@ -9,7 +9,7 @@ It uploads user details using firebase storage. It uses various APIs like retrof
 ## Application Screenshots
 
 * Splash Screen:
-  -<p align="center">
+   <p align="center">
    <img src = "images/img_splash.png" width="200" height="400">
    </p>
 
